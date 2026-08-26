@@ -1,4 +1,19 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://process.filestackapi.com/cache=expiry:max/N6YNXaFGSdqOlgeJbBwF"  />
+</div>
 
+###
+
+<div data-importer="socials" align="center">
+  <a href="essythoppil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/essythoppil/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <p data-importer="text" align="left">Making machines smarter and data make sense — one Python script at a time.</p>
 
