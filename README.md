@@ -12,7 +12,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Techs</h4>
+<h4 data-importer="text" align="left">Skills</h4>
 
 ###
 
